@@ -42,6 +42,8 @@ Specializing in **Laravel** backend & full‑stack web development
   IoT‑based wearable health monitoring (Java Spring Boot microservices)  
   - Dockerized services, real‑time alerts & analytics  
   - 🔗 [Repository](https://github.com/Ahmadfbq/nabd)
+  - **Laravel + React.js Version** (full‑stack web dashboard for device management)
+  - 🔗 [Repository](https://github.com/Ahmadfbq/nabd-system)
 
 ---
 
